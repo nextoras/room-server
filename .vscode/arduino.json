@@ -1,0 +1,6 @@
+{
+    "sketch": "sketch_mar21a.ino",
+    "board": "arduino:avr:uno",
+    "programmer": "ArduinoISP",
+    "port": "COM3"
+}
